@@ -1,0 +1,168 @@
+D:\desktop app\project\data base\data base\bin\Debug\data base.exe.config
+D:\desktop app\project\data base\data base\bin\Debug\data base.exe
+D:\desktop app\project\data base\data base\bin\Debug\data base.pdb
+D:\desktop app\project\data base\data base\obj\Debug\data_base.Properties.Resources.resources
+D:\desktop app\project\data base\data base\obj\Debug\data base.csproj.GenerateResource.Cache
+D:\desktop app\project\data base\data base\obj\Debug\data base.exe
+D:\desktop app\project\data base\data base\obj\Debug\data base.pdb
+D:\desktop app\project\data base\data base\obj\Debug\data_base.database.resources
+D:\desktop app\project\data base\data base\bin\Debug\Newtonsoft.Json.dll
+D:\desktop app\project\data base\data base\bin\Debug\Newtonsoft.Json.xml
+D:\desktop app\project\data base\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+D:\desktop app\project\data base\data base\obj\Debug\data_base.Loginform.resources
+D:\desktop app\project\data base\data base\obj\Debug\data_base.vuser.resources
+D:\desktop app\project\data base\data base\bin\Debug\data base.exe.manifest
+D:\desktop app\project\data base\data base\bin\Debug\data base.application
+D:\desktop app\project\data base\data base\obj\Debug\data base.exe.manifest
+D:\desktop app\project\data base\data base\obj\Debug\data base.application
+C:\Users\shrif\OneDrive\Documents\data base\data base\bin\Debug\data base.exe.config
+C:\Users\shrif\OneDrive\Documents\data base\data base\obj\Debug\data base.exe
+C:\Users\shrif\OneDrive\Documents\data base\data base\obj\Debug\data base.pdb
+C:\Users\shrif\OneDrive\Documents\data base\data base\bin\Debug\data base.exe.manifest
+C:\Users\shrif\OneDrive\Documents\data base\data base\bin\Debug\data base.application
+C:\Users\shrif\OneDrive\Documents\data base\data base\bin\Debug\data base.exe
+C:\Users\shrif\OneDrive\Documents\data base\data base\bin\Debug\data base.pdb
+C:\Users\shrif\OneDrive\Documents\data base\data base\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shrif\OneDrive\Documents\data base\data base\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shrif\OneDrive\Documents\data base\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+C:\Users\shrif\OneDrive\Documents\data base\data base\obj\Debug\data_base.database.resources
+C:\Users\shrif\OneDrive\Documents\data base\data base\obj\Debug\data_base.Loginform.resources
+C:\Users\shrif\OneDrive\Documents\data base\data base\obj\Debug\data_base.Properties.Resources.resources
+C:\Users\shrif\OneDrive\Documents\data base\data base\obj\Debug\data_base.vuser.resources
+C:\Users\shrif\OneDrive\Documents\data base\data base\obj\Debug\data base.csproj.GenerateResource.Cache
+C:\Users\shrif\OneDrive\Documents\data base\data base\obj\Debug\data base.exe.manifest
+C:\Users\shrif\OneDrive\Documents\data base\data base\obj\Debug\data base.application
+D:\desktop app\New folder\data base\data base\bin\Debug\data base.exe.config
+D:\desktop app\New folder\data base\data base\obj\Debug\data base.exe
+D:\desktop app\New folder\data base\data base\obj\Debug\data base.pdb
+D:\desktop app\New folder\data base\data base\bin\Debug\data base.exe.manifest
+D:\desktop app\New folder\data base\data base\bin\Debug\data base.application
+D:\desktop app\New folder\data base\data base\bin\Debug\data base.exe
+D:\desktop app\New folder\data base\data base\bin\Debug\data base.pdb
+D:\desktop app\New folder\data base\data base\bin\Debug\Newtonsoft.Json.dll
+D:\desktop app\New folder\data base\data base\bin\Debug\Newtonsoft.Json.xml
+D:\desktop app\New folder\data base\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+D:\desktop app\New folder\data base\data base\obj\Debug\data_base.database.resources
+D:\desktop app\New folder\data base\data base\obj\Debug\data_base.Loginform.resources
+D:\desktop app\New folder\data base\data base\obj\Debug\data_base.Properties.Resources.resources
+D:\desktop app\New folder\data base\data base\obj\Debug\data_base.vuser.resources
+D:\desktop app\New folder\data base\data base\obj\Debug\data base.csproj.GenerateResource.Cache
+D:\desktop app\New folder\data base\data base\obj\Debug\data base.exe.manifest
+D:\desktop app\New folder\data base\data base\obj\Debug\data base.application
+C:\Users\shrif\OneDrive\Pictures\data base\data base\bin\Debug\data base.exe.config
+C:\Users\shrif\OneDrive\Pictures\data base\data base\obj\Debug\data base.exe
+C:\Users\shrif\OneDrive\Pictures\data base\data base\obj\Debug\data base.pdb
+C:\Users\shrif\OneDrive\Pictures\data base\data base\bin\Debug\data base.exe.manifest
+C:\Users\shrif\OneDrive\Pictures\data base\data base\bin\Debug\data base.application
+C:\Users\shrif\OneDrive\Pictures\data base\data base\bin\Debug\data base.exe
+C:\Users\shrif\OneDrive\Pictures\data base\data base\bin\Debug\data base.pdb
+C:\Users\shrif\OneDrive\Pictures\data base\data base\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shrif\OneDrive\Pictures\data base\data base\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shrif\OneDrive\Pictures\data base\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+C:\Users\shrif\OneDrive\Pictures\data base\data base\obj\Debug\data_base.database.resources
+C:\Users\shrif\OneDrive\Pictures\data base\data base\obj\Debug\data_base.Loginform.resources
+C:\Users\shrif\OneDrive\Pictures\data base\data base\obj\Debug\data_base.Properties.Resources.resources
+C:\Users\shrif\OneDrive\Pictures\data base\data base\obj\Debug\data_base.vuser.resources
+C:\Users\shrif\OneDrive\Pictures\data base\data base\obj\Debug\data base.csproj.GenerateResource.Cache
+C:\Users\shrif\OneDrive\Pictures\data base\data base\obj\Debug\data base.exe.manifest
+C:\Users\shrif\OneDrive\Pictures\data base\data base\obj\Debug\data base.application
+C:\Users\shrif\OneDrive\Pictures\data base\data base\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\shrif\OneDrive\Pictures\data base\data base\bin\Debug\Guna.UI2.dll
+C:\Users\shrif\OneDrive\Pictures\data base\data base\obj\Debug\data_base.Form1.resources
+C:\Users\shrif\Music\data base\data base\bin\Debug\data base.exe.config
+C:\Users\shrif\Music\data base\data base\obj\Debug\data base.exe
+C:\Users\shrif\Music\data base\data base\obj\Debug\data base.pdb
+C:\Users\shrif\Music\data base\data base\bin\Debug\data base.exe.manifest
+C:\Users\shrif\Music\data base\data base\bin\Debug\data base.application
+C:\Users\shrif\Music\data base\data base\bin\Debug\data base.exe
+C:\Users\shrif\Music\data base\data base\bin\Debug\data base.pdb
+C:\Users\shrif\Music\data base\data base\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\shrif\Music\data base\data base\bin\Debug\Guna.UI2.dll
+C:\Users\shrif\Music\data base\data base\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shrif\Music\data base\data base\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shrif\Music\data base\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+C:\Users\shrif\Music\data base\data base\obj\Debug\data_base.database.resources
+C:\Users\shrif\Music\data base\data base\obj\Debug\data_base.Form1.resources
+C:\Users\shrif\Music\data base\data base\obj\Debug\data_base.Loginform.resources
+C:\Users\shrif\Music\data base\data base\obj\Debug\data_base.Properties.Resources.resources
+C:\Users\shrif\Music\data base\data base\obj\Debug\data_base.vuser.resources
+C:\Users\shrif\Music\data base\data base\obj\Debug\data base.csproj.GenerateResource.Cache
+C:\Users\shrif\Music\data base\data base\obj\Debug\data base.exe.manifest
+C:\Users\shrif\Music\data base\data base\obj\Debug\data base.application
+D:\final database\project\data base\data base\bin\Debug\data base.exe.config
+D:\final database\project\data base\data base\obj\Debug\data base.exe
+D:\final database\project\data base\data base\obj\Debug\data base.pdb
+D:\final database\project\data base\data base\bin\Debug\data base.exe.manifest
+D:\final database\project\data base\data base\bin\Debug\data base.application
+D:\final database\project\data base\data base\bin\Debug\data base.exe
+D:\final database\project\data base\data base\bin\Debug\data base.pdb
+D:\final database\project\data base\data base\bin\Debug\Guna.Charts.WinForms.dll
+D:\final database\project\data base\data base\bin\Debug\Guna.UI2.dll
+D:\final database\project\data base\data base\bin\Debug\Newtonsoft.Json.dll
+D:\final database\project\data base\data base\bin\Debug\Newtonsoft.Json.xml
+D:\final database\project\data base\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+D:\final database\project\data base\data base\obj\Debug\data_base.database.resources
+D:\final database\project\data base\data base\obj\Debug\data_base.Loginform.resources
+D:\final database\project\data base\data base\obj\Debug\data_base.Properties.Resources.resources
+D:\final database\project\data base\data base\obj\Debug\data_base.vuser.resources
+D:\final database\project\data base\data base\obj\Debug\data base.csproj.GenerateResource.Cache
+D:\final database\project\data base\data base\obj\Debug\data base.exe.manifest
+D:\final database\project\data base\data base\obj\Debug\data base.application
+C:\Users\shrif\Videos\data base\data base\bin\Debug\data base.exe.config
+C:\Users\shrif\Videos\data base\data base\obj\Debug\data base.exe
+C:\Users\shrif\Videos\data base\data base\obj\Debug\data base.pdb
+C:\Users\shrif\Videos\data base\data base\bin\Debug\data base.exe.manifest
+C:\Users\shrif\Videos\data base\data base\bin\Debug\data base.application
+C:\Users\shrif\Videos\data base\data base\bin\Debug\data base.exe
+C:\Users\shrif\Videos\data base\data base\bin\Debug\data base.pdb
+C:\Users\shrif\Videos\data base\data base\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\shrif\Videos\data base\data base\bin\Debug\Guna.UI2.dll
+C:\Users\shrif\Videos\data base\data base\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shrif\Videos\data base\data base\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shrif\Videos\data base\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+C:\Users\shrif\Videos\data base\data base\obj\Debug\data_base.database.resources
+C:\Users\shrif\Videos\data base\data base\obj\Debug\data_base.vuser.resources
+C:\Users\shrif\Videos\data base\data base\obj\Debug\data_base.Loginform.resources
+C:\Users\shrif\Videos\data base\data base\obj\Debug\data_base.Properties.Resources.resources
+C:\Users\shrif\Videos\data base\data base\obj\Debug\data base.csproj.GenerateResource.Cache
+C:\Users\shrif\Videos\data base\data base\obj\Debug\data base.exe.manifest
+C:\Users\shrif\Videos\data base\data base\obj\Debug\data base.application
+E:\data base\data base\bin\Debug\data base.exe.config
+E:\data base\data base\obj\Debug\data base.exe
+E:\data base\data base\obj\Debug\data base.pdb
+E:\data base\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+E:\data base\data base\obj\Debug\data_base.database.resources
+E:\data base\data base\obj\Debug\data_base.vuser.resources
+E:\data base\data base\obj\Debug\data_base.Loginform.resources
+E:\data base\data base\obj\Debug\data_base.Properties.Resources.resources
+E:\data base\data base\obj\Debug\data base.csproj.GenerateResource.Cache
+E:\data base\data base\bin\Debug\data base.exe.manifest
+E:\data base\data base\bin\Debug\data base.application
+E:\data base\data base\bin\Debug\data base.exe
+E:\data base\data base\bin\Debug\data base.pdb
+E:\data base\data base\bin\Debug\Guna.Charts.WinForms.dll
+E:\data base\data base\bin\Debug\Guna.UI2.dll
+E:\data base\data base\bin\Debug\Newtonsoft.Json.dll
+E:\data base\data base\bin\Debug\Newtonsoft.Json.xml
+E:\data base\data base\obj\Debug\data base.exe.manifest
+E:\data base\data base\obj\Debug\data base.application
+E:\Database Management System\data base\bin\Debug\data base.exe.config
+E:\Database Management System\data base\obj\Debug\data base.exe
+E:\Database Management System\data base\obj\Debug\data base.pdb
+E:\Database Management System\data base\bin\Debug\data base.exe.manifest
+E:\Database Management System\data base\bin\Debug\data base.application
+E:\Database Management System\data base\bin\Debug\data base.exe
+E:\Database Management System\data base\bin\Debug\data base.pdb
+E:\Database Management System\data base\bin\Debug\Guna.Charts.WinForms.dll
+E:\Database Management System\data base\bin\Debug\Guna.UI2.dll
+E:\Database Management System\data base\bin\Debug\Newtonsoft.Json.dll
+E:\Database Management System\data base\bin\Debug\Newtonsoft.Json.xml
+E:\Database Management System\data base\obj\Debug\data base.csprojResolveAssemblyReference.cache
+E:\Database Management System\data base\obj\Debug\data_base.database.resources
+E:\Database Management System\data base\obj\Debug\data_base.vuser.resources
+E:\Database Management System\data base\obj\Debug\data_base.Loginform.resources
+E:\Database Management System\data base\obj\Debug\data_base.Properties.Resources.resources
+E:\Database Management System\data base\obj\Debug\data base.csproj.GenerateResource.Cache
+E:\Database Management System\data base\obj\Debug\data base.exe.manifest
+E:\Database Management System\data base\obj\Debug\data base.application
+E:\Database Management System\data base\obj\Debug\data_base.print.resources

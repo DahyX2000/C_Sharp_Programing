@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2"/>
+    </startup>
+
+
+  <connectionStrings>
+    <add name="connstrng" connectionString="Data Source=192.168.1.100,1433;Initial Catalog=information;User ID=SQL_SHERIF;Password=333Sherif%" providerName="System.Data.Sqlclient"/>  
+  </connectionStrings>
+</configuration>
